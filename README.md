@@ -2,6 +2,8 @@
 
 This repository contains a simple, lightweight Docker configuration built as part of the [roadmap.sh Basic Dockerfile](https://roadmap.sh/projects/basic-dockerfile) challenge. 
 
+**Project URL:** https://roadmap.sh/projects/basic-dockerfile
+
 The goal of this project is to build a minimal Docker image using Alpine Linux that prints a welcoming message to the console upon execution.
 
 ---
